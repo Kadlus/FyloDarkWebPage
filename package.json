@@ -1,0 +1,12 @@
+{
+  "name": "fylodarkwebpage",
+  "version": "1.0.0",
+  "description": "![Design preview for the Fylo dark theme landing page challenge](preview.jpg)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "type": "module"
+  },
+  "author": "",
+  "license": "ISC"
+}
